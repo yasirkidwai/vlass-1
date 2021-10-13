@@ -1,0 +1,23 @@
+.img {
+    border-radius:20px 5px 20px 5px;
+}
+
+.blue_title {
+    color: blue;
+}
+
+.section1 {
+    background-color: burlywood;
+}
+
+#list1 {
+    background-color: goldenrod;
+}
+
+#list2 {
+    background-color: lightskyblue;
+}
+
+#list3 {
+    background-color: orange;
+}
